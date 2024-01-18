@@ -36,12 +36,15 @@ function Herosection() {
       {/* main hero section container */}
        <div className="h-[calc(100vh-10rem)] relative w-full bg-blue-200">
           {/* image slider */}
-          <div className="h-full w-full">
+          <div className="h-full w-full img-bg">
             image
           </div>
           {/* text */}
-          <div className="absolute top-0 right-0 bg-red-100">
-            Welcome to our homepage
+          <div className="absolute top-[12rem] left-[6rem] text-[4rem] bg-white flex h-24">
+            <div className="w-4 h-ful bg-blue-600"></div>
+           <div className="px-2 w-msg">
+           Welcome to our homepage
+           </div>
           </div>
 
 
