@@ -56,7 +56,7 @@ const Navbar = () => {
       <div className="container md:mx-auto ">
         <div className="md:flex hidden  items-center justify-between">
           <div className="text-gray-800 text-xl font-bold">
-            <Link to="/">AAES</Link>
+            <Link to="/">LOGO</Link>
           </div>
 
           <div className="md:hidden">
