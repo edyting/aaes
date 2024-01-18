@@ -35,7 +35,7 @@ function Herosection() {
 
   return (
     <div>
-  
+        Herosection
     </div>
   )
 }
